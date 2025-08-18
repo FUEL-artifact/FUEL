@@ -6,7 +6,7 @@
   <a href="./LICENSE"><img src=https://img.shields.io/badge/License-Apache_2.0-turquoise?style=for-the-badge ></a>
  </div>
 
-# May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs
+# May the Feedback Be with You! Breaking the Seal of Feedback-Driven Deep Learning Framework Fuzzing via Large Language Models
 
 ## 📋 Introduction
 
