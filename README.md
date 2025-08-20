@@ -78,7 +78,7 @@ You need a DeepSeek API key to invoke the DeepSeek API service (of course, you c
 #### 📥 clone the repository
 
 ```bash
-git clone https://github.com/FUEL-artifact/FUEL
+git clone https://github.com/FUEL-artifact/FUEL.git
 cd FUEL
 ```
 
