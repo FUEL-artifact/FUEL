@@ -21,7 +21,7 @@
 - **❤️‍🩹 Program Self-Repair**: Automatically distinguishes between framework bugs and invalid test cases, then intelligently repairs invalid models using LLM-guided analysis
 - **📊 Heuristic Search**: Integrates heuristic algorithms like Feedback-Aware Simulated Annealing (FASA) for intelligent API operator selection
 - **🔬 Differential Testing**: Supports multiple differential testing modes (hardware differences, compiler differences, etc.)
-- **🔍 Efficient Detection**: Successfully discovered 104 new bugs, with 93 confirmed and 57 fixed
+- **🔍 Efficient Detection**: Successfully discovered 115 new bugs, with 104 confirmed and 93 fixed
 
 ### 🛠️ Key Features
 
